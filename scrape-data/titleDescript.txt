@@ -1,0 +1,1187 @@
+Title (English): Higher Education Institutes
+Description: Higher Education Institutes in Abu Dhabi Emirate
+
+Title (English): Centres for People of Determination
+Description: Centres for People of Determination in Abu Dhabi Emirate
+
+
+Title (English): Adult Education
+Description: Abu Dhabi Emirate Adult Education Centers
+
+
+Title (English): Holy Quran Memorization Centers
+Description: Abu Dhabi Emirate Holy Quran Memorization Centers
+
+
+Title (English): Emirates Driving Schools
+Description: provide driving lessons 
+
+Title (English): Public Schools
+Description: Public Schools in Abu Dhabi Emirate
+
+
+Title (English): ADULT EDUCATION
+Description: Adult Education : Distribution of Centers, Teaching and Administrative By Emirate
+
+
+Title (English): Distribution of Technical Education Intuitions Students 
+Description: Distribution of Technical Education Institutions Students By Emirate
+
+
+Title (English): Distribution of Technical Education Intuitions 
+Description: Distribution of Technical Education Institutions by Emirate
+
+
+Title (English): Total of Higher Education Institutions by Emirate and Sector in 2012 to 2016
+Description: The dataset shows the total of higher education institutions by emirate and sector in the United Arab Emirates from 2012 until 2016 
+
+
+Title (English): General High School Graduates Success and Failing by Category, Section, Nationality, and gender
+Description: The dataset illustrates general high school graduate's success and failing by category, section, nationality, and gender from academic 2004/2005 until 2010/2011. The source of the data is the ministry of education. The data is not available for the privat
+
+Title (English): Graduates students on scholarships abroad by specialization and scientific degree
+Description: Graduates students on scholarships abroad by specialization and scientific degree 2014/2015 * Does not include Dubai Free Zone
+
+
+Title (English): Gross tertiary enrollment 2016 and 2017
+Description: The dataset describes the gross tertiary enrollment for both genders.
+
+
+Title (English): Number and Percentage Distribution of Students
+Description: Number and Percentage Distribution of Students by Stage and Type of Education
+
+Title (English): Number of Graduates at Private higher Education Institutions
+Description:  Number of Graduates at Private Higher  Education Institutions by Specialist, Nationality, and Sex from 2010 to 2016 * Does not include Dubai Free Zone
+
+Title (English): Number of Classrooms in Public and Private Education
+Description: The data shows the total number of classrooms in public and private schools from 1975-1976 until  2015-2016 school year by educational stage and gender. Data were obtained from the Ministry of Education, Statistics Center - Abu Dhabi, and Dubai Statistics
+
+Title (English): Number of new and continuing students at government higher education institutions
+Description: Number of new and continuing students at government higher education institutions by specialist, nationality, and sex 2016/2017 * Does not include Dubai Free Zone
+
+
+
+Title (English): Scholarship new and continuing students at higher education by specialist, academic rank and sex
+Description: Scholarship new and continuing students at higher education by a specialist, academic rank, and sex * Does not include Dubai Free Zone
+
+
+Title (English):  Number of Faculty Member at Private Higher Education Institutions
+Description: The dataset shows the number of a faculty member at private higher education institutions by nationality, gender, and professional status in the United Arab Emirates from 2012/2013 until 2015/2016
+
+Title (English): Books by Subjects at Public Libraries
+Description: The dataset illustrates the Books by Subjects at Public Libraries in the United Arab Emirates from 2014 to 2016
+
+
+Title (English): Distribution of Students AT ( PRIVATE EDUCATION ) by Nationality
+Description: Distribution of Students AT ( PRIVATE EDUCATION ) by Nationality for the Academic year, 2016/2017 * Does not include Dubai Free Zone
+
+
+Title (English): Distribution of students in government education
+Description: Distribution of students in government education by stage, emirate and sex
+
+
+Title (English): Distribution of Teachers in Government Education
+Description: Distribution of Teachers in Government Education By Stage, Emirate and Sex
+
+
+Title (English): Government Education
+Description: Government Education: Schools, Classes, Teachers, Students
+
+
+Title (English): Government and Private Education
+Description: Government and Private Education : Schools, Classes , Teachers and Students
+
+
+
+Title (English): Faculty members at Federal Higher Education Institutions
+Description: Faculty members at Federal Higher Education Institutions By Nationality, Sex &amp; Professional Status
+
+
+Title (English): Faculty Members at Private Higher Education Institutions
+Description: Faculty Members at Private Higher Education Institutions By Nationality, Sex &amp; Professional Status
+
+
+Title (English): General high school graduates by sector and gender
+Description: The dataset shows general high school graduates by sector and gender in the United Arab Emirates in 2015/2016. The source of the data is a ministry of education. In addition, AbuDhabi is not included in the private sector.
+
+Title (English): Number of Students at Government Higher Education Institutions
+Description: The dataset shows the number of students at government higher education institutions by specialty, nationality and gender in the United Arab Emirates from academic year 2011/2012 until 2015/2016.
+
+
+
+Title (English): Number of Faculty Members at Federal Higher Education Institutions
+Description: The dataset shows the number of faculty members at federal higher education institutions by nationality, gender, and professional status in the United Arab Emirates from 2012/2013 until 2015/2016
+
+
+Title (English): Number of Graduates at Government Higher Education Institutions 
+Description: The dataset shows a number of graduates at government higher education institutions by specialty, nationality, and gender in the United Arab Emirates from 2010/2011 until 2015/2016.
+
+
+
+Title (English): Number of Libraries
+Description: The dataset illustrates the Number of Libraries by emirate in the United Arab Emirates from 2014 to 2016
+
+
+Title (English): Percentage of Female To Male in Government Education
+Description: Percentage of Female To Male in Government Education By Stage, and Sex
+
+
+Title (English): Number of Students at Private Higher Education Institutions
+Description: The dataset shows the number of students at private higher education institutions by specialist, nationality, and gender in the United Arab Emirates from the academic year 2011/2012 until 2015/2016.
+
+
+
+Title (English): Number of Students In Disabled Care and Rehabilitation Centers
+Description: the dataset illustrates the number of students In disabled care and rehabilitation centers by emirate in the United Arab Emirates from 2006 until 2016
+
+
+Title (English): Number of Students in Higher Education Institutions
+Description: The dataset shows the number of students in higher education institutions by emirates, gender, and sector in the United Arab Emirates from the academic year 2012/2013 until 2015/2016.
+
+
+
+Title (English): Number of Teachers at Schools
+Description: The dataset shows the number of teachers at schools by sector and gender in the United Arab Emirates from the academic year 1975/1974 until 2015/2016.
+
+
+
+Title (English): Number of Students in Higher Education Institutions
+Description: Number of Students in Higher Education Institutions By Emirate &amp; Sector
+
+
+Title (English): Percentage of National students to Non-national
+Description: Percentage of National students to Non-national By Emirate and Sector
+
+
+Title (English): PISA competency exam results
+Description: PISA is a three-yearly global assessment that examines students’ ability in using cognitive skills in key subject areas of Reading Literacy , Mathematics Literacy and Science Literacy.( mainly in grades 7-12 ). The Programme for International Student Asse
+
+Title (English): Student on Scholarships and Graduates (ABROAD)
+Description: A student on Scholarships and Graduates (ABROAD) by Degree and Sex
+
+Title (English): Students at Adult Education Centers
+Description: Students at Adult Education Centers by Emirate and Sex
+
+
+Title (English): Students in Governmental and Private Education
+Description: Students in Governmental and Private Education by stage, nationality and sex
+
+Title (English): Students in Governmental Education by Nationality , Stage and Gender
+Description: The data was collected from Administrative records and the source of data is the Ministry of Education. This data includes the number of students in government education by Nationality, stage, and gender from the academic year 1980/1981 until 2014/2015.
+
+
+Title (English): Students in Government Education by Emirate, Stage and Gender
+Description: The data was collected from Administrative records and the source of data is the Ministry of Education. The data includes the number of students in government education by emirates, stage, and sex from the academic year 2007/2008 until 2015/106.
+
+Data o
+
+Title (English): Students in private education
+Description: The data was collected from administrative records and the source of data is the Ministry of Education and Statistics Center, these data include the number of students in private education by school stage, nationality, and gender from academic year 2011/2
+
+Title (English): Students Numbers By Gender, Nationality And Program For The Year 2022
+Description: This dataset shows Mohamed bin Zayed University of Artificial Intelligence total number of students by gender, nationality and program for the year 2022 
+
+
+Title (English): ENROLLMENTS BY LEVEL AND GENDER
+Description: ENROLLMENTS BY LEVEL AND GENDER 2019 - 2020
+
+
+Title (English): Higher Colleges of Technology Graduates in Health Sciences per Year by Program
+Description: The dataset shows the total number of graduates in Health Sciences major for the academic year 2015-2016. (Note: *Totals based on number of credentials earned. Total number of students who completed the Work Readiness Programmer in the Academic Year 2015-
+
+Title (English): Enrollments by Faculty and Gender
+Description: Enrollments by Faculty and Gender Academic Year 2016-17 Enrollment Count as at 22 September, 2016.
+
+
+
+Title (English): Higher Colleges of Technology Graduates in Information Sciences per Year by Program
+Description: The dataset shows the total number of graduates in Computer Information Science major for the academic year 2015-2016. (*Totals based on number of credentials earned. Total number of students who completed the Work Readiness Programme in the Academic Year
+
+Title (English): HCT College Foundations Enrollment by Campus and Level
+Description: The dataset shows the total number of Foundations Enrollment distributed by degree level (Level 1, 2, 3, and 4) and universities in 2016-2017.
+
+
+
+Title (English): Higher Colleges of Technology Graduates in Military and Security per Year by Program
+Description: The dataset shows the total number of graduates in Military and Security major for the academic year 2015-2016. (Note: *Totals based on number of credentials earned. Total number of students who completed the Work Readiness Programme in the Academic Year 
+
+Title (English): HCT College Enrollments by Campus
+Description: The dataset shows the total number of enrolled students for different campus (Abu Dhabi, Al Ain, Dubai, Fujairah, Madinat Zayed, Ras Al Khaimah, Ruwais, and Sharjah) in 2016-2017.
+
+
+
+Title (English): HCT Graduates in Education per Year by Program
+Description: The dataset shows the total number of graduates in Education major for the academic year 2015-2016. (*Totals based on number of credentials earned. Total number of students who completed the Work Readiness Programmer in the Academic Year 2015-2016 is 333.
+
+Title (English): HCT Annual Enrollment by Campus, Division, and Program
+Description: The dataset shows the total number of enrolled students in different majors (Applied Communications, Business, Computer Information Science, Education, Engineering Technology and Sciences, Foundations, Health Sciences, and Vocational Education) in 2016-20
+
+Title (English): HCT Annual Enrollments by Gender and Level
+Description: The dataset shows the total number of enrolled male and female based on school level (Bachelor, Diploma, Certificate, HD/BAS) in 2016-2017.
+
+
+
+Title (English): GRADUATES BY GENDER
+Description: GRADUATES BY GENDER
+
+
+Title (English): GRADUATES BY FACULTY AND GENDER
+Description: The dataset shows the total number of male and female graduates in different majors (Applied Communications, Business, Computer Information Science, Education, Engineering Technology and Sciences, Foundations, Health Sciences, and Vocational Education) in
+
+Title (English): GRADUATES BY CAMPUS
+Description: GRADUATES BY CAMPUS
+
+
+Title (English): GRADUATES BY ACADEMIC DIVISION AND GENDER
+Description: GRADUATES BY ACADEMIC DIVISION AND GENDER 2018 -2019
+
+Title (English): GRADUATES BY ACADEMIC DIVISION AND CREDENTIAL
+Description: GRADUATES BY ACADEMIC DIVISION AND CREDENTIAL
+
+
+Title (English): GRADUATES BY ACADEMIC DIVISION
+Description: GRADUATES BY ACADEMIC DIVISION
+
+
+Title (English): GRADUATES AWARDED CREDENTIALS WITH DISTINCTION by Gender
+Description: The dataset shows the total number of male and female graduates awarded with Distinction and Distinction with Honors in 2015-2016. (Note: *The % shown is the total number of Distinctions divided by total Credentials awarded. Distinction with Honors: Gradu
+
+Title (English): GRADUATES BY FACULTY AND PROGRAMME
+Description: GRADUATES BY FACULTY AND PROGRAMME
+
+
+Title (English): GRADUATES AWARDED CREDENTIALS WITH DISTINCTION by CREDENTIAL
+Description: GRADUATES AWARDED CREDENTIALS WITH DISTINCTION by CREDENTIAL
+
+
+Title (English): GRADUATES AWARDED CREDENTIALS WITH DISTINCTION
+Description: GRADUATES AWARDED CREDENTIALS WITH DISTINCTION
+
+
+Title (English): GRADUATES AWARDED CREDENTIALS WITH DISTINCTION by FACULTY
+Description: GRADUATES AWARDED CREDENTIALS WITH DISTINCTION by FACULTY
+
+
+
+Title (English): HCT FACULTY STAFF BY DIVISION
+Description: HCT FACULTY STAFF by DIVISION
+
+
+
+Title (English): ENROLLMENTS BY CAMPUS
+Description: ENROLLMENTS BY CAMPUS
+
+
+
+Title (English): HCT Graduates Awarded Credentials by Program and Year
+Description: The dataset shows the total number of male and female graduates in different majors (Applied Communications, Business, Computer Information Science, Education, Engineering Technology and Sciences, Foundations, Health Sciences, and Vocational Education) in
+
+Title (English): ENROLLMENTS BY DIVISION, PROGRAMME AND CAMPUS
+Description: ENROLLMENTS BY DIVISION, PROGRAMME AND CAMPUS
+
+
+
+Title (English): HCT Graduates by Program, Credential Type, and Beginning and Ending Year
+Description: The dataset shows the total number of enrolled Pre-programme, Diploma, Bachelor, and Certificate students in different majors (Applied Communications, Business, Computer Information Science, Education, Engineering Technology and Sciences, Foundations, Hea
+
+Title (English): Enrollments by Faculty
+Description: Enrollments by Faculty From Academic Year AY 2012-13 To AY 2020
+
+
+
+Title (English): HCT Graduates in Applied Communications per Year by Program
+Description: The dataset shows the total number of graduates in Applied Communications major in 2015-2016. (*Totals based on number of credentials earned. Total number of students who completed the Work Readiness Programme in the Academic Year 2015-2016 is 333.)
+
+
+
+Title (English): HCT Graduates in Business per Year by Program
+Description: The dataset shows the total number of graduates in Business major for the academic year 2015-2016. (*Totals based on number of credentials earned. Total number of students who completed the Work Readiness Programme in the Academic Year 2015-2016 is 333.)
+
+Title (English): HCT New Student Enrollment per Year by Emirate and Level
+Description: The dataset shows the total number of new students enrolled in Emirate universities for Bachelor and Certificate degrees for the academic year 2016-2017.
+
+
+
+Title (English): HCT STAFF BY CAMPUS
+Description: HCT STAFF
+
+
+
+Title (English): NEW STUDENT ENROLLMENTS BY HIGH SCHOOL TYPE AND GENDER
+Description: NEW STUDENT ENROLLMENTS BY HIGH SCHOOL TYPE AND GENDER
+
+
+
+Title (English): NEW STUDENT ENROLLMENTS BY CAMPUS AND YEAR
+Description: NEW STUDENT ENROLLMENTS BY CAMPUS AND YEAR
+
+
+
+Title (English): Higher Colleges of Technology Graduates in Engineering Technology and Sciences per Year by Program
+Description: Higher Colleges of Technology Graduates in Engineering Technology and Sciences per Year by Program
+
+Title (English): Student Enrollment and graduates at UAEU in 2020-2021
+Description: The dataset displays the number of UAEU enrolled students and graduates in the academic year 2020-2021, categorized by college, gender, level, and nationality.
+
+Title (English): Private Schools Total Staff Distribution By Region and Degree
+Description: Statistics On Staff Distribution in Private Schools By Region and Degree
+
+Title (English): Private Schools Total Enrolled Students Distribution By Nationality and Curriculum
+Description: Statistics On Enrolled Students per Academic Year Distribution in Private Schools By Nationality and Curriculum
+
+Title (English): Private Schools Total Enrolled Students Distribution By Nationality and School Fee
+Description: Statistics On Enrolled Students per Academic Year Distribution in Private Schools By Nationality and School Fee
+
+Title (English): Charter Schools Total Enrolled Students Distribution By Gender and Age Group
+Description: Statistics On Enrolled Students per Academic Year Distribution in Charter Schools By Gender and Age Group
+
+Title (English): Private Schools Total Enrolled Students Distribution By Nationality and Age Group
+Description: Statistics On Enrolled Students per Academic Year Distribution in Private Schools By Nationality and Age Group
+
+Title (English): Private Schools Total Enrolled Students Distribution By Nationality and Cycle
+Description: Statistics On Enrolled Students per Academic Year Distribution in Private Schools By Nationality and Cycle
+
+
+Title (English): Private Schools Total Enrolled Students Distribution By Nationality and Grade
+Description: Statistics On Enrolled Students per Academic Year Distribution in Private Schools By Nationality and Grade
+
+Title (English): Private Schools Total Enrolled Students Distribution By Nationality and School Region
+Description: Statistics On Enrolled Students per Academic Year Distribution in Private Schools By Nationality and School Region
+
+Title (English): Charter Schools Total Enrolled Students Distribution By Gender and Grade
+Description: Statistics On Enrolled Students per Academic Year Distribution in Charter Schools By Gender and Grade
+
+Title (English): Private Schools Total Enrolled Students Distribution By Gender and Cycle
+Description: Statistics On Enrolled Students per Academic Year Distribution in Private Schools By Gender and Cycle
+
+Title (English): Private Schools Total Enrolled Students Distribution By Gender and Grade
+Description: Statistics On Enrolled Students per Academic Year Distribution in Private Schools By Gender and Grade
+
+Title (English): Private Schools Total Enrolled Students Distribution By Gender and School Region
+Description: Statistics On Enrolled Students per Academic Year Distribution in Private Schools By Gender and School Region
+
+Title (English): Charter Schools Total Enrolled Students Distribution By Gender and School Region
+Description: Statistics On Enrolled Students per Academic Year Distribution in Charter Schools By Gender and Nationality
+
+Title (English): Private Schools Total Enrolled Students Distribution By Gender and Nationality
+Description: Statistics On Enrolled Students per Academic Year Distribution in Private Schools By Gender and Nationality
+
+Title (English): Private Nurseries Total Enrolled Students Distribution By Gender and Cycle
+Description: Statistics On Enrolled Students per Academic Year Distribution in Private Nurseries By Gender and Cycle
+
+Title (English): Charter Schools Total Enrolled Students Distribution By Gender and Nationality
+Description: No description provided
+
+Title (English): Charter Schools Total Staff Distribution By Nationality and Region
+Description: Statistics On Staff Distribution  In Charter Schools  By Nationality and Region
+
+Title (English): Private Schools Total Staff Distribution By Nationality and Region
+Description: Statistics On Staff Distribution  In Private Schools  By Nationality and Region
+
+Title (English): Private Schools Total Staff Distribution By Nationality and Degree
+Description: Statistics On Staff Distribution  In Private Schools  By Nationality and Degree
+
+Title (English): Private Schools Total Staff Distribution By Nationality and Role
+Description: Statistics On Staff Distribution  In Private Schools  By Nationality and Role
+
+Title (English): Private Nurseries Total Enrolled Students Distribution By Gender and Age Group
+Description: Statistics On Enrolled Students per Academic Year Distribution in Private Nurseries By Gender and Age Group
+
+Title (English): Private Nurseries Total Staff Distribution By Nationality and Region
+Description: Statistics On Staff Distribution  In Private Nurseries By Nationality and Region
+
+Title (English): Private Nurseries Total Staff Distribution By Nationality and Degree
+Description: Statistics On Staff Distribution  In Private Nurseries By Nationality and Degree
+
+Title (English): Private Nurseries Total Staff Distribution By Nationality and Role
+Description: Statistics On Staff Distribution  In Private Nurseries By Nationality and Role
+
+Title (English): Charter Schools Total Staff Distribution By Nationality and Degree
+Description: Statistics On Staff Distribution  In Charter Schools  By Nationality and Degree
+
+Title (English): Charter Schools Total Staff Distribution By Nationality and Role
+Description: Statistics On Staff Distribution  In Charter Schools By Nationality and Role
+
+Title (English): Private Nurseries Total Enrolled Students Distribution By Grade and Age Group
+Description: Statistics On Enrolled Students per Academic Year Distribution in Private Nurseries By Grade and Age Group
+
+Title (English): Private Nurseries Total Enrolled Students Distribution By School Region and Age Group
+Description: Statistics On Enrolled Students per Academic Year Distribution in Private Nurseries By School Region and Age Group
+
+Title (English): Charter Schools Total Enrolled Students Distribution By School Region and Cycle
+Description: Statistics On Enrolled Students per Academic Year Distribution in Charter Schools By School Region and Cycle
+
+Title (English): Private Schools Total Enrolled Students Distribution By School Fee and Curriculum
+Description: Statistics On Enrolled Students per Academic Year Distribution in Private Schools By School Fee and Curriculum
+
+Title (English): Private Schools Total Enrolled Students Distribution By Age Group and Curriculum
+Description: Statistics On Enrolled Students per Academic Year Distribution in Private Schools By Age Group and Curriculum
+
+Title (English): Charter Schools Total Enrolled Students Distribution By Grade and Age Group
+Description: Statistics On Enrolled Students per Academic Year Distribution in Charter Schools By Grade and Age Group
+
+Title (English): Charter Schools Total Enrolled Students Distribution By Grade and Cycle
+Description: Statistics On Enrolled Students per Academic Year Distribution in Charter Schools By Grade and Cycle
+
+Title (English): Private Schools Total Enrolled Students Distribution By Age Group and School Fee
+Description: Statistics On Enrolled Students per Academic Year Distribution in Private Schools By Age Group and School Fee
+
+Title (English): Private Schools Total Enrolled Students Distribution By Cycle and Curriculum
+Description: Statistics On Enrolled Students per Academic Year Distribution in Private Schools By Cycle and Curriculum
+
+Title (English): Charter Schools Total Enrolled Students Distribution By Cycle and Age Group
+Description: Statistics On Enrolled Students per Academic Year Distribution in Charter Schools By Cycle and Age Group
+
+Title (English): Private Schools Total Enrolled Students Distribution By Cycle and School Fee
+Description: Statistics On Enrolled Students per Academic Year Distribution in Private Schools By Cycle and School Fee
+
+Title (English): Private Nurseries Total Enrolled Students Distribution By Gender and Nationality
+Description: Statistics On Enrolled Students per Academic Year Distribution in Private Nurseries By Gender and Nationality
+
+Title (English): Private Nurseries Total Enrolled Students Distribution By Gender and School Region
+Description: Statistics On Enrolled Students per Academic Year Distribution in Private Nurseries By Gender and School Region
+
+Title (English): Private Nurseries Total Enrolled Students Distribution By Gender and Grade
+Description: Statistics On Enrolled Students per Academic Year Distribution in Private Nurseries By Gender and Grade
+
+Title (English): Private Schools Total Enrolled Students Distribution By Cycle and Age Group
+Description: Statistics On Enrolled Students per Academic Year Distribution in Private Schools By Cycle and Age Group
+
+Title (English): Private Schools Total Enrolled Students Distribution By Grade and Curriculum
+Description: Statistics On Enrolled Students per Academic Year Distribution in Private Schools By Grade and Curriculum
+
+Title (English): Private Schools Total Enrolled Students Distribution By Grade and School Fee
+Description: Statistics On Enrolled Students per Academic Year Distribution in Private Schools By Grade and School Fee
+
+Title (English): Charter Schools Total Enrolled Students Distribution By Nationality and School Region
+Description: Statistics On Enrolled Students per Academic Year Distribution in Charter Schools By Nationality and School Region
+
+Title (English): Private Schools Total Enrolled Students Distribution By School Region and Grade
+Description: Statistics On Enrolled Students per Academic Year Distribution in Private Schools By School Region and Grade
+
+Title (English): Private Schools Total Enrolled Students Distribution By School Region and Cycle
+Description: Statistics On Enrolled Students per Academic Year Distribution in Private Schools By School Region and Cycle
+
+Title (English): Charter Schools Total Enrolled Students Distribution By Nationality and Grade
+Description: Statistics On Enrolled Students per Academic Year Distribution in Charter Schools By Nationality and Grade
+
+Title (English): Private Schools Total Enrolled Students Distribution By School Region and Age Group
+Description: Statistics On Enrolled Students per Academic Year Distribution in Private Schools By School Region and Age Group
+
+Title (English): Charter Schools Total Enrolled Students Distribution By Nationality and Cycle
+Description: Statistics On Enrolled Students per Academic Year Distribution in Charter Schools By Nationality and Cycle
+
+Title (English): Private Schools Total Enrolled Students Distribution By School Region and School Fee
+Description: Statistics On Enrolled Students per Academic Year Distribution in Private Schools By School Region and School Fee
+
+Title (English): Private Schools Total Enrolled Students Distribution By School Region and Curriculum
+Description: Statistics On Enrolled Students per Academic Year Distribution in Private Schools By School Region and Curriculum
+
+Title (English): Charter Schools Total Enrolled Students Distribution By School Region and Grade
+Description: Statistics On Enrolled Students per Academic Year Distribution in Charter Schools By School Region and Grade
+
+Title (English): Charter Schools Total Enrolled Students Distribution By Nationality and Age Group
+Description: Statistics On Enrolled Students per Academic Year Distribution in Charter Schools By Nationality and Age Group
+
+Title (English): Private Schools Total Enrolled Students Distribution By Grade and Cycle
+Description: Statistics On Enrolled Students per Academic Year Distribution in Private Schools By Grade and Cycle
+
+Title (English): Private Schools Total Enrolled Students Distribution By Grade and Age Group
+Description: Statistics On Enrolled Students per Academic Year Distribution in Private Schools By Grade and Age Group
+
+Title (English): Private Nurseries Total Enrolled Students Distribution By Nationality and Age Group
+Description: Statistics On Enrolled Students per Academic Year Distribution in Private Nurseries By Nationality and Age Group
+
+Title (English): Private Nurseries Total Enrolled Students Distribution By School Region and Cycle
+Description: Statistics On Enrolled Students per Academic Year Distribution in Private Nurseries By School Region &amp; Cycle
+
+Title (English): Private Nurseries Total Enrolled Students Distribution By School Region and Grade
+Description: Statistics On Enrolled Students per Academic Year Distribution in Private Nurseries By School Region and Grade
+
+Title (English): Charter Schools Total Enrolled Students Distribution By School Region and Age Group
+Description: Statistics On Enrolled Students per Academic Year Distribution in Charter Schools By School Region and Age Group
+
+Title (English): Private Schools Total Staff Distribution By Region and Role Category
+Description: Statistics On Staff Distribution in Private Schools By Region and Role Category
+
+Title (English): Private Nurseries Total Enrolled Students Distribution By Cycle and Age Group
+Description: Statistics On Enrolled Students per Academic Year Distribution in Private Nurseries By Cycle and Age Group
+
+Title (English): Private Schools Students Grade Progression Rate per Year By Gender and Grade
+Description: Statistics on Students Grade Progression Rate per Academic Year in Private Schools Distributed by Gender and Grade
+
+Title (English): Charter Schools Students Grade Progression Rate per Year By Curriculum and Region
+Description: Statistics on Students Grade Progression Rate per Academic Year in Charter Schools Distributed by Curriculum and Region
+
+Title (English): Private Nurseries Total Enrolled Students Distribution By Grade and Cycle
+Description: Statistics On Enrolled Students per Academic Year Distribution in Private Nurseries By School Region and Age Group
+
+Title (English): Private Nurseries Total Enrolled Students Distribution By Nationality and Cycle
+Description: Statistics On Enrolled Students per Academic Year Distribution in Private Nurseries By Nationality and Cycle
+
+Title (English): Charter Schools Students Grade Progression Rate per Year By Curriculum and Grade
+Description: Statistics on Students Grade Progression Rate per Academic Year in Charter Schools Distributed by Curriculum and Grade
+
+Title (English): Charter Schools Students Grade Progression Rate per Year By Curriculum and Cycle
+Description: Statistics on Students Grade Progression Rate per Academic Year in Charter Schools Distributed by Curriculum and Cycle
+
+Title (English): Charter Schools Students Grade Progression Rate per Year By Gender and Nationality
+Description: Statistics on Students Grade Progression Rate per Academic Year in Charter Schools Distributed by Gender and Nationality
+
+Title (English): Charter Schools Students Grade Progression Rate per Year By Gender and Region
+Description: Statistics on Students Grade Progression Rate per Academic Year in Charter Schools Distributed by Gender and Region
+
+Title (English): Charter Schools Students Grade Progression Rate per Year By Gender and Grade
+Description: Statistics on Students Grade Progression Rate per Academic Year in Charter Schools Distributed by Gender and Grade
+
+Title (English): Charter Schools Students Grade Progression Rate per Year By Gender and Cycle
+Description: Statistics on Students Grade Progression Rate per Academic Year in Charter Schools Distributed by Gender and Cycle
+
+Title (English): Charter Schools Students Grade Progression Rate per Year By Nationality and Region
+Description: Statistics on Students Grade Progression Rate per Academic Year in Charter Schools Distributed by Nationality and Region
+
+Title (English): Charter Schools Students Grade Progression Rate per Year By Nationality and Grade
+Description: Statistics on Students Grade Progression Rate per Academic Year in Charter Schools Distributed by Nationality and Grade
+
+Title (English): Charter Schools Students Grade Progression Rate per Year By Nationality and Cycle
+Description: Statistics on Students Grade Progression Rate per Academic Year in Charter Schools Distributed by Nationality and Cycle
+
+Title (English): Charter Schools Students Grade Progression Rate per Year By Region and Grade
+Description: Statistics on Students Grade Progression Rate per Academic Year in Charter Schools Distributed by Region and Grade
+
+Title (English): Charter Schools Students Grade Progression Rate per Year By Region and Cycle
+Description: Statistics on Students Grade Progression Rate per Academic Year in Charter Schools Distributed by Region and Cycle
+
+Title (English): Distribution of nursery school students by region and gender
+Description: Distribution of nursery school students by region and gender
+
+Title (English): Nurseries staff distribution by gender and nationality
+Description: Statistics on the distribution of workers in nurseries by region, gender and nationality for the current academic year
+
+Title (English): Charter schools teachers by region
+Description: Statistics on the distribution of teachers in educational partnership schools by region for the current academic year
+
+Title (English): Private Schools Total Enrolled Students Distribution By Gender and School Fee
+Description: Statistics On Enrolled Students per Academic Year Distribution in Private Schools By Gender and School Fee
+
+Title (English): Private Schools Total Enrolled Students Distribution By Gender and Curriculum
+Description: Statistics On Enrolled Students per Academic Year Distribution in Private Schools By Gender and Curriculum
+
+Title (English): Private Nurseries Total Enrolled Students Distribution By Nationality and Grade
+Description: Statistics On Enrolled Students per Academic Year Distribution in Private Nurseries By Nationality and Grade
+
+Title (English): Private Nurseries Total Enrolled Students Distribution By Nationality and School Region
+Description: Statistics On Enrolled Students per Academic Year Distribution in Private Nurseries By Nationality and School Region
+
+Title (English): Charter Schools Total Enrolled Students Distribution By Gender and Cycle
+Description: Statistics On Enrolled Students per Academic Year Distribution in Charter Schools By Gender and Cycle
+
+Title (English): Private Schools Total Enrolled Students Distribution By Gender and Age Group
+Description: Statistics On Enrolled Students per Academic Year Distribution in Private Schools By Gender and Age Group
+
+Title (English): Charter Schools Students Grade Progression Rate per Year By Curriculum and Gender
+Description: Statistics on Students Grade Progression Rate per Academic Year in Charter Schools Distributed by Curriculum and Gender
+
+Title (English): Private Schools Students Grade Progression Rate per Year By Region and Grade
+Description: Statistics on Students Grade Progression Rate per Academic Year in Private Schools Distributed by Region and Grade
+
+Title (English): Private Schools Students Grade Progression Rate per Year By Region and Cycle
+Description: Statistics on Students Grade Progression Rate per Academic Year in Private Schools Distributed by Region and Cycle
+
+Title (English): Charter Schools Students Grade Progression Rate per Year By Curriculum and Nationality
+Description: Statistics on Students Grade Progression Rate per Academic Year in Charter Schools Distributed by Curriculum and Nationality
+
+Title (English): Private Schools Students Grade Progression Rate per Year By Nationality and Region
+Description: Statistics on Students Grade Progression Rate per Academic Year in Private Schools Distributed by Nationality and region
+
+Title (English): Private Schools Students Grade Progression Rate per Year By Curriculum and Region
+Description: Statistics on Students Grade Progression Rate per Academic Year in Private Schools Distributed by Curriculum and Region
+
+Title (English): Private Schools Students Grade Progression Rate per Year By Curriculum and Grade
+Description: Statistics on Students Grade Progression Rate per Academic Year in Private Schools Distributed by Curriculum and Grade
+
+Title (English): Private Schools Students Grade Progression Rate per Year By Curriculum and Cycle
+Description: Statistics on Students Grade Progression Rate per Academic Year in Private Schools Distributed by Curriculum and Cycle
+
+Title (English): Private Schools Students Grade Progression Rate per Year By Fee Category and Gender
+Description: Statistics on Students Grade Progression Rate per Academic Year in Private Schools Distributed by Fee Category and Gender
+
+Title (English): Private Schools Students Grade Progression Rate per Year By Fee Category and Region
+Description: Statistics on Students Grade Progression Rate per Academic Year in Private Schools Distributed by Fee Category and Region
+
+Title (English): Private Schools Students Grade Progression Rate per Year By Fee Category and Grade
+Description: Statistics on Students Grade Progression Rate per Academic Year in Private Schools Distributed by Fee Category and Grade
+
+Title (English): Private Schools Students Grade Progression Rate per Year By Fee Category and Cycle
+Description: Statistics on Students Grade Progression Rate per Academic Year in Private Schools Distributed by Fee Category and Cycle
+
+Title (English): Private Schools Students Grade Progression Rate per Year By Gender and Nationality
+Description: Statistics on Students Grade Progression Rate per Academic Year in Private Schools Distributed by Gender and Nationality
+
+Title (English): Private Schools Students Grade Progression Rate per Year By Gender and Region
+Description: Statistics on Students Grade Progression Rate per Academic Year in Private Schools Distributed by Gender and Region
+
+Title (English): Private Schools Students Grade Progression Rate per Year By Gender and Cycle
+Description: Statistics on Students Grade Progression Rate per Academic Year in Private Schools Distributed by Gender and Cycle
+
+Title (English): Private Schools Total Staff Distribution By Gender And Nationality
+Description: Statistics On Staff Distribution  In Private Schools  By Gender And Nationality
+
+Title (English): Private Schools Students Grade Progression Rate per Year By Nationality and Grade
+Description: Statistics on Students Grade Progression Rate per Academic Year in Private Schools Distributed by Nationality and Grade
+
+Title (English): Private Schools Students Grade Progression Rate per Year By Nationality and Cycle
+Description: Statistics on Students Grade Progression Rate per Academic Year in Private Schools Distributed by Nationality and Cycle
+
+Title (English): Charter Schools Total Staff Distribution By Gender And Region
+Description: Statistics On Staff Distribution  In Charter Schools  By Gender And Region
+
+Title (English): Private Nurseries Total Staff Distribution By Gender And Degree
+Description: Statistics On Staff Distribution  In Private Nurseries By Gender And Degree
+
+Title (English): Private Schools Students Grade Progression Rate per Year By Fee Category and Nationality
+Description: Statistics on Students Grade Progression Rate per Academic Year in Private Schools Distributed by Fee Category and Nationality
+
+Title (English): Private Schools Total Staff Distribution By Gender And Degree
+Description: Statistics On Staff Distribution  In Private Schools  By Gender And Degree
+
+Title (English): Private Nurseries Total Staff Distribution By Gender And Nationality
+Description: Statistics On Staff Distribution In Private Nurseries By Gender And Nationality
+
+Title (English): Private Nurseries Total Staff Distribution By Gender And Region
+Description: Statistics On Staff Distribution  In Private Nurseries By Gender And Region
+
+Title (English): Private Schools Total Staff Distribution By Role Category And Degree
+Description: Statistics On Staff Distribution  In Private Schools  By Role Category And Degree
+
+Title (English): Private Schools Total Staff Distribution By Gender And Region
+Description: Statistics On Staff Distribution  In Private Schools  By Gender And Region
+
+Title (English): Private Schools Students Grade Progression Rate per Year By Curriculum and Gender
+Description: Statistics on Students Grade Progression Rate per Academic Year in Private Schools Distributed by Curriculum and Gender
+
+Title (English): Charter Schools Total Staff Distribution By Gender And Role
+Description: Statistics On Staff Distribution  In Charter Schools  By Gender And Role
+
+Title (English): Charter Schools Total Staff Distribution By Gender And Degree
+Description: Statistics On Staff Distribution  In Charter Schools  By Gender And Degree
+
+Title (English): Charter Schools Total Staff Distribution By Gender And Nationality
+Description: Statistics On Staff Distribution In Charter Schools By Gender And Nationality
+
+Title (English): Private Nurseries Total Staff Distribution By Role Category And Degree
+Description: Statistics On Staff Distribution  In Private Nurseries By Role Category And Degree
+
+Title (English): Private Nurseries Total Staff Distribution By Gender And Role
+Description: Statistics On Staff Distribution  In Private Nurseries By Gender And Role
+
+Title (English): Private Schools Students Grade Progression Rate per Year By Curriculum and Nationality
+Description: Statistics on Students Grade Progression Rate per Academic Year in Private Schools Distributed by Curriculum and Nationality
+
+Title (English): Private Schools Students in G12-Y13 Graduation Rate per Year By Curriculum and Fee Category
+Description: Statistics On G12-Y13 Graduation Students Rate per Academic Year  in Private Schools Distributed by Curriculum and Fee Category
+
+Title (English): Private Schools Students in G12-Y13 Graduation Rate per Year By Curriculum and Gender
+Description: Statistics On (G12-Y13) Graduation Students Rate per Academic Year  in Private Schools Distributed by Curriculum and Gender
+
+Title (English): Private Schools Students in G1-Y13 Graduation Rate per Year By Curriculum and Nationality
+Description: Statistics On (G12-Y13) Graduation Students Rate per Academic Year  in Private Schools Distributed by Curriculum and Nationality
+
+
+Title (English): Private Schools Students in G12-Y13 Graduation Rate per Year By Curriculum and Region
+Description: Statistics On (G12-Y13) Graduation Students Rate per Academic Year  in Private Schools Distributed by Curriculum and Region
+
+
+Title (English): Private Schools Students in G12-Y13 Graduation Rate per Year By Curriculum and Inspection Results
+Description: Statistics On (G12-Y13) Graduation Students Rate per Academic Year  in Private Schools Distributed by Curriculum and Inspection Results
+
+Title (English): Private Schools Students in G12-Y13 Graduation Rate per Year By Fee Category and Gender
+Description: Statistics On (G12-Y13) Graduation Students Rate per Academic Year  in Private Schools Distributed by Fee Category and Gender
+
+Title (English): Private Schools Students in G12-Y13 Graduation Rate per Year By Fee Category and Region
+Description: Statistics On (G12-Y13) Graduation Students Rate per Academic Year  in Private Schools Distributed by Fee Category and Region
+
+Title (English): Private Schools Students in G12-Y13 Graduation Rate per Year By Fee Category and Inspection Result
+Description: Statistics On (G12-Y13) Graduation Students Rate per Academic Year  in Private Schools Distributed by Fee Category and Inspection Result
+
+Title (English): Private Schools Students in G12-Y13 Graduation Rate per Year By Gender and Nationality
+Description: Statistics On (G12-Y13) Graduation Students Rate per Academic Year  in Private Schools Distributed by Gender and Nationality
+
+Title (English): Private Schools Students in G12-Y13 Graduation Rate per Year By Gender and Region
+Description: Statistics On (G12-Y13) Graduation Students Rate per Academic Year  in Private Schools Distributed by Gender and Region
+
+Title (English): Private Schools Students in G12-Y13 Graduation Rate per Year By Nationality and Region
+Description: Statistics On (G12-Y13) Graduation Students Rate per Academic Year  in Private Schools Distributed by Nationality and Region
+
+Title (English): Private Schools Students in G12-Y13 Graduation Rate per Year By Fee Category and Nationality
+Description: Statistics On (G12-Y13) Graduation Students Rate per Academic Year  in Private Schools Distributed by Fee Category and Nationality
+
+Title (English): Private Schools Students in G12-Y13 Graduation Rate per Year By Nationality and Inspection Result
+Description: Statistics On (G12-Y13) Graduation Students Rate per Academic Year  in Private Schools Distributed by Nationality and Inspection Result
+
+Title (English): Private Schools Students in G12-Y13 Graduation Rate per Year By Region and Inspection Result
+Description: Statistics On (G12-Y13) Graduation Students Rate per Academic Year  in Private Schools Distributed by Region and Inspection Result
+
+Title (English): Private Schools Students Grade Progression Rate per Year By Curriculum and Fee Category
+Description: Statistics on Students Grade Progression Rate per Academic Year in Private Schools Distributed by Curriculum and Fee Category
+
+Title (English): Private Schools Students in G12-Y13 Graduation Rate per Year By Gender and Inspection Result
+Description: Statistics On (G12-Y13) Graduation Students Rate per Academic Year  in Private Schools Distributed by Gender and Inspection Result
+
+Title (English): Scholarship Enrolled students distribution by country
+Description: Statistics on scholarship students distribution by country  for historical and current academic years enrolled in Abu Dhabi Scholarship program 
+
+
+Title (English): Scholarship Enrolled students distribution by type
+Description: Statistics on scholarship students distribution by type for historical and current academic years graduated in Abu Dhabi Scholarship program 
+
+
+Title (English): Nurseries with contact information
+Description: List of Nurseries in the Emirate of Abu Dhabi with contact and geographic information
+
+
+Title (English): List of Nurseries
+Description: List of Nurseries in the Emirate of Abu Dhabi for current academic year including basic school information
+
+
+Title (English): Charter Schools with contact information
+Description: List of Charter Schools in the Emirate of Abu Dhabi with contact and geographic information
+
+
+Title (English): Charter Schools
+Description: List of Charter Schools in the Emirate of Abu Dhabi for current academic year including basic school information
+
+
+Title (English): Charter Schools Total Staff Distribution By Role Category And Degree
+Description: Statistics On Staff Distribution  In Charter Schools  By Role Category And Degree
+
+Title (English): List of Private schools Inspection Results
+Description: List of Private schools in the Emirate of Abu Dhabi with latest inspection result by region, location and curriculum for current  academic year
+
+
+Title (English): Private schools tuition fee
+Description: List of Private schools in the Emirate of Abu Dhabi with average fee by region and curriculum for current  academic year
+
+
+Title (English): Private Schools with contact information
+Description: It includes demographic data: Academic Year, Education Type, school name EN/AR,  telephone, fax, email, latitude, and longitude
+
+
+
+Title (English): Scholarship Enrolled students distribution by major
+Description: Statistics on scholarship students distribution by major for historical and current academic years enrolled in Abu Dhabi Scholarship program 
+
+
+Title (English): Scholarship Graduated students distribution by major
+Description: Statistics on scholarship students distribution by major for historical and current academic years graduated in Abu Dhabi Scholarship program 
+
+
+Title (English): Scholarship Graduated students distribution by degree
+Description: Statistics on scholarship students distribution by degree for historical and current academic years graduated in Abu Dhabi Scholarship program 
+
+
+Title (English): Scholarship Graduated students distribution by type
+Description: Statistics on scholarship students distribution by type for historical and current academic years graduated in Abu Dhabi Scholarship program 
+
+
+Title (English): Private Schools
+Description: List of Private schools in the Emirate of Abu Dhabi for current and historical academic years including basic school information
+
+Title (English): Scholarship Graduated students distribution by country
+Description: Statistics on scholarship students distribution by country  for historical and current academic years graduated in Abu Dhabi Scholarship program 
+
+
+Title (English): Scholarship Enrolled students distribution by degree
+Description: Statistics on scholarship students distribution by degree for historical and current academic years enrolled in Abu Dhabi Scholarship program 
+
+
+Title (English): Scholarship Enrolled students distribution by gender
+Description: Statistics on scholarship students distribution by gender for historical and current academic years enrolled in Abu Dhabi Scholarship program
+
+
+Title (English): Training Discipline Licensed Training Providers (LTPs ) Activities 2022
+Description: These represent the Licensed Training Providers (LTPs ) Activities
+
+Title (English): Licensed Training Providers
+Description: These represent the licensed training providers within the UAE licensed by ACTVET.
+Update Frequency: Yearly
+
+
+
+Title (English): Training Activities
+Description: These represent the list of training activities within UAE
+
+
+Title (English): Registered Training Providers
+Description: These represent the registered training providers with ACTVET located within the UAE.
+
+
+Title (English): Licensed Training Providers 2022
+Description: These represent the licensed training providers within the UAE licensed by ACTVET.
+
+Title (English): Registered Training Providers 2022
+Description: These represent the registered training providers with ACTVET located within the UAE.
+
+Title (English): Training Activities 2022
+Description: These represent the list of training activities within UAE
+
+Title (English): Private Schools Total Staff Distribution By Gender And Role
+Description: Statistics On Staff Distribution  In Private Schools  By Gender And Role
+
+Title (English): Location of Licensed Training Providers (LTP)
+Description: Location of licensed training providers (LTP) and provided training activities licensed by ACTVET (Abu Dhabi Centre for Technical and Vocational Education and Training) within the UAE.
+
+Title (English): Training Discipline Licensed Training Providers (LTPs ) Activities
+Description: These represent the Licensed Training Providers (LTPs ) Activities
+
+Title (English): Number of registered graduates from Registered Training Providers (RTP)
+Description: This dataset is presenting the total number of graduates that gained an Registered Training Providers (RTP) Qualification
+
+Title (English): Registered Training Providers (RTP) Qualifications
+Description: This dataset presents the list of Registered Training Providers (RTP) Qualifications approved by National Qualifications Authority (NQA)
+
+
+Title (English): Statistics 2018 - 2019 AY
+Description: Statistics 2018 - 2019 AY
+
+Title (English): Student Enrollment at UAEU in 2019 and 2020
+Description: The dataset shows the numbers of UAEU enrolled students in year 2019-2020 in all the colleges based on Colleges, Gender, Level and Nationality
+
+
+Title (English): Student Enrollment at UAEU in 2018 and 2019
+Description: The dataset shows the numbers of UAEU enrolled students in year 2018-2019 in all the colleges based on Colleges, Gender, Level and Nationality
+
+
+Title (English): Student Enrollment at UAEU in 2017 and 2018
+Description: The dataset shows the numbers of UAEU enrolled students in year 2017-2018 in all the colleges based on Colleges, Gender, Level and Nationality
+
+Title (English): Program Age Groups 2018 - 2019 AY
+Description: Program Age Groups 2018 - 2019 AY
+
+Title (English): Program Demographic Data 2018 - 2019 AY
+Description: Program Demographic Data 2018 - 2019 AY
+
+
+Title (English): Programs General Information
+Description: Programs General Information
+
+Title (English): Literacy Rate Among Population (10 Years and Over) by Year, Citizenship, and Gender for Abu Dhabi
+Description: Literacy Rate Among Population (10 Years and Over) by Year, Citizenship, and Gender for Abu Dhabi Emirate
+
+
+
+Title (English): DCT Number of students and teachers attended school tours in cultural sites for year 2020
+Description: The dataset illustrate Number of students and teachers attended school tours in Abu Dhabi and Al Ain cultural sites by Site, by topic, by Year 2020
+
+Title (English): Cultural and Heritage Total Visitors by Category within DCT Site, Year 2019-2020
+Description: The dataset illustrate Cultural and Heritage Total Visitors by Category within DCT Site, Year 2019-2020
+
+Title (English): Number of people enrolled in Programs related to DCT Education and Outreach by Year 2020
+Description: The dataset illustrate number of people enrolled in Programs related to DCT Education and Outreach by Year
+
+Title (English):  Distribution of Students (GE ) by Nationality and Gender
+Description: Distribution of Students (G.E ) by Nationality and Gander for the Academic year, 2016/2017 * Does not include Dubai Free Zone
+
+
+Title (English): Student By Gender
+Description: Student By Gender
+
+Title (English): Student By Gender
+Description: Student By Gender
+
+Title (English): Private Education
+Description: Distribution of schools and classrooms, type of education by Emirate.
+
+
+Title (English): Private Education
+Description: Private Education: Schools, Classes, Teachers, and Students
+
+Title (English): Literacy Centers, Adult Education, and Homeschooling by Region and Gender in the Emirate of Abu Dhabi
+Description: This data reveals the literacy centres, adult education, and homeschooling by region and gender for Abu Dhabi, Al Ain, and Al Dhafra for 2010-2016.
+
+
+
+Title (English): Faculty And Staff Total Number For The Year 2022
+Description: This dataset shows Mohamed bin Zayed University of Artificial Intelligence total number of faculty and staff for the year 2022
+
+
+Title (English): Faculty and Staff Total Number By Nationality For The Year 2022
+Description: This dataset shows Mohamed bin Zayed University of Artificial Intelligence total number of faculty and staff by nationality for the year 2022
+
+
+Title (English): Faculty and Staff Total Number By Gender For The Year 2022
+Description: This dataset shows Mohamed bin Zayed University of Artificial Intelligence total number of faculty and staff by gender for the year 2022
+
+
+Title (English): Faculty by Highest Qualification  Fall 2020
+Description: Faculty by Highest Qualification  Fall 2020
+
+Title (English): Number of registered graduates from Registered Training Providers (RTP) 2022
+Description: This dataset is presenting the total number of graduates that gained an Registered Training Providers (RTP) Qualification for year 2022
+
+Title (English): Total Enrolled Students in In Applied Technology By Region, citizenship, Gender and study field and Graduates data
+Description: Statistics On Enrolled Students per Academic Year Distribution  in Institute of Applied Technology By Region, region, citizenship, Gender and study field and Graduates data
+
+
+Title (English): Drop out rate Distribution in Schools By Region, Gender, citizenship, Sector, age and cycle 
+Description: Statistics on staff&Teachers Distribution in Schools By Region, Gender, citizenship, Sector and age 
+
+Title (English): Total of staff&Teachers Distribution in Schools By Region, Gender, citizenship, Sector and age 
+Description: Statistics on staff&Teachers Distribution in Schools By Region, Gender, citizenship, Sector and age 
+
+
+Title (English): Total Enrolled Students Distribution in Adult education centres By Region, Gender and participants
+Description: Statistics On Enrolled Students per Academic Year Distribution in Adult education centres By Region, Gender and participants 
+
+Title (English): Total Enrolled Students Distribution in Nurseries By School Region, Age Group, region, citizenship and Gender
+Description: Statistics On Enrolled Students per Academic Year Distribution in nurseries By School Region, Age Group, region, citizenship and gender
+
+
+Title (English): Total Enrolled Students By Region, Age Group, region, sector, citizenship, stage, Gender, grade and Disabilities Type
+Description: Statistics On Enrolled Students per Academic Year Distribution in Schools By School Region, Age Group, region, sector, citizenship, stage, Gender, grade and Disabilities Type
+
+Title (English): School's information by region, sector, curriculum, and cycle
+Description: School's information in the Emirate of Abu Dhabi for current year including basic school's statistics
+
+Title (English): Percentage of learning Hours Spent on top skills
+Description: Listing the percentage of learning hours spent by the learners for each of the top skills in ADSG Self-Paced Learning Platform
+
+
+Title (English): Number of staff
+Description: The number of staff the university has
+
+Title (English): Enrolled students 2020-2021
+Description: Enrolled students' gender, date of birth enrolled program, nationality 202-2021
+
+Title (English): Completed Assessments Percentage by Skill 
+Description: Listing the ratio of assessments performed by the learners for each of the top skills in ADSG Self-Paced Learning Platform
+
+
+Title (English): Numbers of students enrolled 2020-2021
+Description: The statistics shows the number of students enrolled to the university 2020-2021
+
+Title (English): Number of applicants 2020-2021
+Description: Number of students that applied to the university 2020-2021
+
+Title (English): The number of programs um5a offer
+Description: A list of the programs the university offers
+
+Title (English): Bachelors majors offered by Mohammed V University
+Description: A list of the bachelors majors the university offers
+
+Title (English): Numbers of graduates in programs
+Description: Statistics of graduated students per program
+
+Title (English): Number of teachers
+Description: The number of faculty the university has
+
+Title (English): Time Spent by Learners by Domain   
+Description: The time spent by learners through self-paced courses by main domains
+
+
+Title (English): Numbers of graduates per year
+Description: Statistics of graduated students
+
+Title (English): Learners Proficiency by Top Skills
+Description: The proficiency level for the learners by the top skills  in ADSG Self-Paced Learning Platform
+
+
+Title (English):  Number of available books in the library
+Description: A list of the books that are available in the university's library
+
+Title (English): Learning Days Trends
+Description: The trends of usage based on the day from ADSG learning management system
+
+
+Title (English): University Location
+Description: The location of the two university branches in the UAE
+
+Title (English): Live Sessions Learning Hours
+Description: The cumulative live sessions learning hours by ADSG Live Session platform
+
+
+Title (English):  Completed Self-Paced Courses  
+Description: The cumulative number of the completed self-paced courses
+
+
+Title (English): Time Spent on the Self-Paced Courses by top skills
+Description: The time spent by learners through self-paced courses by top skills
+
+
+Title (English): Rabdan Academy Fact Book 2019 -2020
+Description: The file incudes facts and statistics related to Rabdan Academy 
+
+
+Title (English): Rabdan Academy Under Graduate, Bachelor and Diploma Programs
+Description: The file includes detailed explanation regarding Undergraduate programs in English
+
+
+Title (English): Graduate Academy Catalogue 
+Description: The file includes detailed explanation regarding graduate programs in English
+
+
+Title (English):  Rabdan Academy Vocational Affairs
+Description: The file includes detailed explanation regarding of Rabdan Academy Vocational Affairs
+
+
+Title (English): Graduates 2016-2020
+Description: Number of students graduating with education certificates (B.Ed., PGD, MA, PHD) for five academic years 
+
+
+Title (English): Fall 2019_2020 Bachelor Student Enrollment By Program
+Description: Fall 2019_2020 Bachelor Student Enrollment By Program
+
+Title (English): Fall 2019-20 Master Student Enrollment By Gender
+Description: Fall 2019/20 Master Student Enrollment By Gender
+
+
+Title (English): Fall 2019_2020 Undergraduate Student Enrollment By Nationality
+Description: Fall 2019_2020 Undergraduate Student Enrollment By Nationality
+
+Title (English): Fall 2019_2020 Undergraduate Student Enrollment By Gender
+Description: Fall 2019_2020 Undergraduate Student Enrollment By Gender
+
+
+Title (English): Fall 2019_2020 Enrollment By Nationality Region
+Description: Fall 2019_2020 Enrollment Undergraduate Students and Postgraduate Student by  Nationality 
+
+
+
+Title (English): Fall 2019-20  Doctorate Students Enrollment by Gender 
+Description: Fall 2019/20 Enrollment Doctorate Students by Gender 
+
+
+Title (English):  Fall 2019-20 Master Student Enrollment By Nationality
+Description:  Fall 2019-20 Master Student Enrollment By Nationality
+
+Title (English): Fall 2019-20  Doctorate Students Enrollment by Nationality
+Description: Fall 2019-20  Doctorate Students Enrollment by Nationality
+
+Title (English):  Fall 2019-20 Master Student Enrollment By Program
+Description:  Fall 2019-20 Master Student Enrollment By Program
+
+Title (English): Enrollment 2016-2020
+Description: Total number of enrolled students in a semester for five academic year
+
+
+Title (English): Fall 2019_2020 Enrollment Postgraduate Students 
+Description: Fall 2019_2020 Enrollment Postgraduate Students 
+
+
+Title (English): Fall 2019_2020 Enrollment By Level
+Description: Fall 2019/20 Enrollment Undergraduate Students by Level 
+
+
+Title (English):  Academic Programs
+Description: An overview of the academic programs including title, goals, outcomes, admission and graduation requirements, completion period, QF Emirates level, duration, total credits, courses and course credit hours. 
+
+
+Title (English): Fall 2019-20  Doctorate Students Enrollment by Program
+Description: Fall 2019-20  Doctorate Students Enrollment by Program
+
+Title (English): Professional Development Training Programs and qualifications
+Description: The CEC-ECAE supports the UAE vision and recognizes the importance of a highly skilled, educated and qualified workforce to the UAE's economic growth and prosperity. This creates an urgent and ongoing need for the development of the human capital in the U
+
+Title (English): Library resources 
+Description: An overview of the resources, tools and software that available in the library for research, learning and teaching including databases, e-journals, research tools, books and e-books and Software
+
+
+Title (English): Campus Contact Details
+Description: Contact details about ECAE such as city, address, location, email, contact number, and P.O.Box.  
+
+
+Title (English):  Faculty Data 2020-2021
+Description: A list that include the Academic Divisions, the total number of faculty in each division and specify the numbers of (Lecturers, Assistant Professors, Associate Professors, Professors, PhD Holders and the numbers of female and male faculty).
+
+
+Title (English): DCT Number of Music Programmes by Topic for Year 2018-2020
+Description: The dataset illustrate number of programmes in Music Programs, by  Topic, for Year 2018-2020
+
+Title (English): Number of Nominations fro Shaikh Zayed Book Award  for each category by year 2007-2021
+Description: The dataset illustrate Number of Nominations by category, Children's literature, Translation, Contribution to the development of nations, Arab Culture in other Languages, Literary and Art Critisism, The Young Author, Publishing and Techonology from year 2
+
+Title (English): DCT Total Titles CD by Language of Year 2020
+Description: The dataset illustrate Number of CD titles - Collection development by language for year 2020
+
+Title (English): Shaikh Zayed book Award Cultural personality of the year 2021
+Description: The dataset illustrates Shaikh Zayed book Award Cultural personality of the year 2021
+
+Title (English): DCT Total Volumes CD by Subject for year 2020
+Description: The Dataset illustrate DCT Total Volumes CD by Subject for year 2020
+
+Title (English): DCT Total Books borrowed by Subject for Year 2020
+Description: The Dataset Illustrates DCT Total Books borrowed by Subject for Year 2020
+
+Title (English): DCT Total Books borrowed by Site for Year 2020
+Description: The dataset illustrate DCT Total Books borrowed by Site for Year 2020
+
+Title (English): DCT Total Titles by subjesct 2020
+Description: The dataset illustrate Number of CD titles - Collection development by  Subject  for year 2020
+
+Title (English): DCT Number of Students enrolled in art Classes by Year 2020
+Description: The dataset illustrate Number of people enrolled in art classes by Site, by topic by year 2020
+
+Title (English): Future Forecasts Qualification and Specializations 2020 - 2029
+Description: Gov entities &amp; Gov Companies Educational needs in terms of qualification &amp; specializations in 10 yrs from 2020 to 2029
+
+
+Title (English): Higher Education Graduates by Citizenship, Government and Private Sector, and Gender per Year
+Description: This dataset presents the number of higher education graduates per year by their citizenship, gender, and instituion sector (government or private) for the Emirate of Abu Dhabi
+
+
+
+Title (English): Future Forecasts Qualification and Specializations 2021 - 2030
+Description: Gov entities &amp; Gov Companies Educational needs in terms of qualification &amp; specializations in 10 yrs from 2021 to 2030
+
+Title (English): Distribution of students in private education
+Description: Distribution of students in private education by emirate, stage, sex
+
+
+Title (English): Literacy Rate Among Population (15-24 Years) by Year, Citizenship, and Gender in Abu Dhabi
+Description: Literacy Rate Among Population (15-24 Years) by Year, Citizenship, and Gender in Abu Dhabi Emirate
+
+
+
+Title (English): Number of Higher Education Students per Academic Year by Citizenship, Sector, and Gender
+Description: This dataset presents the number of higher education students in Abu Dhabi Emirate each year according to their citizenship, gender, and the type of institution (goverment or private) for the academic year 2015-2016.
+
+Title (English): Number of Private and Government Higher Education Institutions by Sector and Academic Year in Abu Dhabi
+Description: This dataset presents the number of higher education institutions in the Emirate of Abu Dhabi according to the academic year and the type of institution (government or private).
+
+Title (English): Abu Dhabi Pupils and Teachers per Classroom by Region and Educational Stage in Government Education
+Description: This dataset shows the number of pupils per classroom and the number of teachers per classroom by region and educational stage in government education for 2015-2016. *Number of classrooms is not available for multi-stage schools.
+
+
+
+Title (English): Location of Registered Training Providers (RTP) and campuses
+Description: Location of registered training providers (RTP) and their qualifications registered under ACTVET (Abu Dhabi)
+
+Title (English): Number of Pupils in School by Educational Stage, School Type, and Year in Abu Dhabi Emirate
+Description: This data shows the government and private classrooms by educational stage for academic year 2015-2016 and 2015-2016
+
+
+
+Title (English): Number of Government and Private Schools by Educational Stage, School Type, and Year in Abu Dhabi
+Description: This data shows the government and private schools by educational stage for the academic year 2015-2016. *Note: no values provided for private schools for cycle 1, cycle 2, and secondary stages.
+
+
+
+Title (English): Gross Enrollment Ratio by Educational Stage, Gender, and Year for Abu Dhabi Emirate
+Description: This data shows the gross enrollment ratio by educational stage and gender (2015-2016)
+
+
+
+Title (English): Abu Dhabi Education Indicators (2016)
+Description: This shows the government and private education indicators for schools, pupils, teachers, classes, and administrators for Abu Dhabi
+
+
+
+Title (English): ZHO Therapy Data 
+Description: ZHO Therapy sessions Data 
+
+Title (English): ZHO Assessment Data
+Description: ZHO Assessment Data
+
+Title (English): ZHO students
+Description: ZHO Students details
+
